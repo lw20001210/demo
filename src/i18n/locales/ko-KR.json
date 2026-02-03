@@ -1,0 +1,22 @@
+{
+  "title": "엔터프라이즈 다크 테마 예제",
+  "currentMode": "현재 모드: ",
+  "theme": {
+    "light": "라이트",
+    "dark": "다크",
+    "auto": "자동",
+    "autoLight": "라이트 (자동)",
+    "autoDark": "다크 (자동)"
+  },
+  "button": {
+    "antd": "Antd 버튼",
+    "custom": "커스텀 버튼"
+  },
+  "language": {
+    "label": "언어",
+    "zh-CN": "简体中文",
+    "en-US": "English",
+    "ja-JP": "日本語",
+    "ko-KR": "한국어"
+  }
+}

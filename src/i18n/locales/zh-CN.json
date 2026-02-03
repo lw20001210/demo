@@ -1,0 +1,22 @@
+{
+  "title": "企业级暗黑主题示例",
+  "currentMode": "当前模式：",
+  "theme": {
+    "light": "亮色",
+    "dark": "暗黑",
+    "auto": "跟随系统",
+    "autoLight": "亮色 (跟随系统)",
+    "autoDark": "暗黑 (跟随系统)"
+  },
+  "button": {
+    "antd": "Antd 按钮",
+    "custom": "自定义按钮"
+  },
+  "language": {
+    "label": "语言",
+    "zh-CN": "简体中文",
+    "en-US": "English",
+    "ja-JP": "日本語",
+    "ko-KR": "한국어"
+  }
+}

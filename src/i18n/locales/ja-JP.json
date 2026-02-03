@@ -1,0 +1,22 @@
+{
+  "title": "エンタープライズダークテーマの例",
+  "currentMode": "現在のモード：",
+  "theme": {
+    "light": "ライト",
+    "dark": "ダーク",
+    "auto": "自動",
+    "autoLight": "ライト (自動)",
+    "autoDark": "ダーク (自動)"
+  },
+  "button": {
+    "antd": "Antd ボタン",
+    "custom": "カスタムボタン"
+  },
+  "language": {
+    "label": "言語",
+    "zh-CN": "简体中文",
+    "en-US": "English",
+    "ja-JP": "日本語",
+    "ko-KR": "한국어"
+  }
+}
